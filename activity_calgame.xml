@@ -20,7 +20,7 @@
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
-        android:layout_height="106dp"
+        android:layout_height="100dp"
         android:layout_margin="10dp"
         android:background="#E0ECF6"
         android:gravity="center"
